@@ -1,16 +1,17 @@
-## Hi there 👋
+## Bem vindos ao meu perfil 💕
 
-<!--
-**Maria-valentim/Maria-valentim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Maria Eduarda Machado.💖
 
-Here are some ideas to get you started:
+-Estou estudando no [Alura](https://www.alura.com.br) 
+-Estou me desenvolvendo na linguagem javascript
+-Ultilizo esse espaço para minha organiçaçao e compartilhamento dos meus projetos desenvolvidos! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce pode entrar em contato comigo !!
+
+00001115496293SP@al.educacao.sp.gov.br 
+
+@duda-valenti2 
+
+![](![image](https://github.com/user-attachments/assets/93083ef9-b528-4d75-99d0-f85be1f5d881)
+)
+
