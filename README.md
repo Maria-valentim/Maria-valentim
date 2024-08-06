@@ -10,7 +10,7 @@ Meu nome e Maria Eduarda Machado.💖
 
 00001115496293SP@al.educacao.sp.gov.br 
 
-@duda-valenti2 
+@duda-valentim2 
 
 ![](![image](https://github.com/user-attachments/assets/93083ef9-b528-4d75-99d0-f85be1f5d881)
 )
